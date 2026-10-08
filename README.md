@@ -16,7 +16,7 @@ Full stack & DevOps engineer from **ENSEEIHT** (Toulouse INP). I build web appli
 |---|---|---|
 | [spark-cluster-gcp](https://github.com/Ayoubhassain/spark-cluster-gcp) | Infrastructure as Code: a Spark cluster provisioned and configured end to end | GCP, Terraform, Ansible, Spark |
 | [serverless-containers-vs-microvms](https://github.com/Ayoubhassain/serverless-containers-vs-microvms) | Benchmarking isolation vs. energy cost on Kubernetes | Kubernetes, OpenWhisk, Kata Containers, Grafana |
-| [ecommerce-fullstack](https://github.com/Ayoubhassain/ecommerce-fullstack) | Full stack web app with auth, catalog, cart and admin | Java, Spring Boot, Angular, PostgreSQL |
+| [ecommerce-fullstack](https://github.com/Ayoubhassain/ecommerce-fullstack) | Spring Boot + Angular shop extended with JWT auth, an admin area and integration tests | Java, Spring Boot, Spring Security, Angular, MySQL, Docker |
 | [pokemon-rest-api](https://github.com/Ayoubhassain/pokemon-rest-api) | REST API with JWT auth, bcrypt and data validation | Node.js, Express, Sequelize, MariaDB |
 
 #### Tech I work with
